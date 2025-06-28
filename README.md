@@ -2,5 +2,5 @@
 
 # GROUP MEMBERS:
 # Harold O. Portillo
-# Sofia B. Simon
+# Sofia Bianca O. Simon
 # Darachel C. Lagado
